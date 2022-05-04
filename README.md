@@ -23,6 +23,7 @@ In Range Updation and Query, we have used Lazy Propogation, which will give us a
 ### In both segment tree (Min and Sum) :: 
 * Rage Updation by Specific value
 * Range Updation by Incrementing value
+* Range Updation by Arithmetic Prgression
 
 ## dependencies:
 Tkinter
