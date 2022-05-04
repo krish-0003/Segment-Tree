@@ -1,4 +1,9 @@
 # Segment-Tree
+
+When there are many updates and updates are done on a range, we can postpone some updates (avoid recursive calls in update) and do those updates only when required.
+A node in segment tree stores or represents result of a query for a range of indexes. And if this node’s range lies within the update operation range, then all descendants of the node must also be updated.
+
+
 We have done this Project Using Cpp and Python (For GUI representation in Tkinter)
 
 
